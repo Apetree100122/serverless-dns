@@ -1,3 +1,5 @@
+Copyright (c)
+<2023> <Alexanderpetree><apetree1001@email.phoenix.edu>
 # _serverless-dns_ 
 <https://github.com/serverless-dns/blocklists>
 serverless stub DNS-over-HTTPS 
